@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LightSSSDark
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📨 I'll leave my email here in case someone needs it: s0w0rin87@gmail.com
 
